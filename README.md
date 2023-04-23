@@ -13,5 +13,4 @@ to this repository by creating an issue.
 
 This code was presented for the Bio-Inspired Artificial Intelligence course in
 the Computer Science & Technology master's degree @ UC3M. A previous version of
-this code can be found in [[https://github.com/DiegoVicen/ntnu-som][this repository]]. Special thanks to [[https://github.com/leo-labs][Leonard Kleinans]],
-who worked with me in that previous version.
+this code can be found in [[https://github.com/DiegoVicen/ntnu-som][this repository]].
